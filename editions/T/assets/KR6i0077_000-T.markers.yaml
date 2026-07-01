@@ -1,0 +1,30 @@
+canonical_identifier: bkk:krp/KR6i0077/T/v1/markers/0
+seq: 0
+markers:
+  front:
+  - {type: page-break, offset: 0, content: '', id: KR6i0077_T_000-0557c, 'n': 0557c, ed: T, source_xml_id: T14.0476.0557c}
+  - {type: line-break, offset: 0, content: '', id: KR6i0077_T_000-0557c01, ed: T, 'n': 0557c01}
+  - {type: line-break, offset: 0, content: '', id: KR6i0077_T_000-0557c02, ed: T, 'n': 0557c02}
+  - {type: punctuation, offset: 0, content: 'N', id: KR6i0077_T_000-bkkpn1}
+  - {type: punctuation, offset: 0, content: o, id: KR6i0077_T_000-bkkpn2}
+  - {type: punctuation, offset: 0, content: ., id: KR6i0077_T_000-bkkpn3}
+  - {type: punctuation, offset: 0, content: '4', id: KR6i0077_T_000-bkkpn4}
+  - {type: punctuation, offset: 0, content: '7', id: KR6i0077_T_000-bkkpn5}
+  - {type: punctuation, offset: 0, content: '6', id: KR6i0077_T_000-bkkpn6}
+  - {type: punctuation, offset: 0, content: '[', id: KR6i0077_T_000-bkkpn7}
+  - {type: punctuation, offset: 0, content: 'N', id: KR6i0077_T_000-bkkpn8}
+  - {type: punctuation, offset: 0, content: o, id: KR6i0077_T_000-bkkpn9}
+  - {type: punctuation, offset: 0, content: s, id: KR6i0077_T_000-bkkpn10}
+  - {type: punctuation, offset: 0, content: ., id: KR6i0077_T_000-bkkpn11}
+  - {type: punctuation, offset: 0, content: '4', id: KR6i0077_T_000-bkkpn12}
+  - {type: punctuation, offset: 0, content: '7', id: KR6i0077_T_000-bkkpn13}
+  - {type: punctuation, offset: 0, content: '4', id: KR6i0077_T_000-bkkpn14}
+  - {type: punctuation, offset: 0, content: ',', id: KR6i0077_T_000-bkkpn15}
+  - {type: punctuation, offset: 0, content: '4', id: KR6i0077_T_000-bkkpn16}
+  - {type: punctuation, offset: 0, content: '7', id: KR6i0077_T_000-bkkpn17}
+  - {type: punctuation, offset: 0, content: '5', id: KR6i0077_T_000-bkkpn18}
+  - {type: punctuation, offset: 0, content: ']', id: KR6i0077_T_000-bkkpn19}
+  - {type: line-break, offset: 0, content: '', id: KR6i0077_T_000-0557c03, ed: T, 'n': 0557c03}
+  body: []
+  back: []
+hash: sha256:eebd1e53959c0ec3c7bfa9a61587e1518f800cb71bf2a4b038347322c0dbb1d6

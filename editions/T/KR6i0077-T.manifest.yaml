@@ -1,0 +1,238 @@
+canonical_identifier: bkk:krp/KR6i0077/T/v1
+canonical_location: https://kanripo.org/bkk/KR6i0077/T/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 說無垢稱經
+  identifiers:
+    krp: KR6i0077
+    cbeta: T14n0476
+    cbeta_old_id: T14n0476
+    authorityid: CA0003201
+    json_key: T0476
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T14/T14n0476.xml
+    old_id: T14n0476
+  edition:
+    short: T
+assets:
+  parts:
+  - {seq: 0, filename: KR6i0077_000-T.yaml, hash: 'sha256:e1f583a12928e1fca7567034a241c455d18b71004b3b476b5b902cb4d1f796c9'}
+  - {seq: 1, filename: KR6i0077_001-T.yaml, hash: 'sha256:c38ef37f204fa42d281c4ade91973627c11b76366e980fd03838d692f86c02c8'}
+  - {seq: 2, filename: KR6i0077_002-T.yaml, hash: 'sha256:e172215d6446737d29b93b3ac594865e1dcf00ee695034ac51cc8aa000ba4f2a'}
+  - {seq: 3, filename: KR6i0077_003-T.yaml, hash: 'sha256:35d9491431b4b7c7fce4c2bf269b68438fea5b7973ed6d9f0bf48ee4b9050091'}
+  - {seq: 4, filename: KR6i0077_004-T.yaml, hash: 'sha256:e274d6fe4d8beee4463601f53e8e5a415251bb169ebc89c8f085015755c2cdce'}
+  - {seq: 5, filename: KR6i0077_005-T.yaml, hash: 'sha256:3569d4944b8ae13599204bd166edb5c27aa8e854cc1e030b187c6195f90c44c7'}
+  - {seq: 6, filename: KR6i0077_006-T.yaml, hash: 'sha256:5bcc764f26bac51f22d9da3f97641e7cc9f073f6cecd9d349ca28a041e999d89'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6i0077_000-T.markers.yaml, hash: 'sha256:eebd1e53959c0ec3c7bfa9a61587e1518f800cb71bf2a4b038347322c0dbb1d6'}
+  - {seq: 1, role: markers, filename: assets/KR6i0077_001-T.markers.yaml, hash: 'sha256:f55d9cf7d00f92034ccfd0db5cd0f36848049ce97d991807eba09c7b94e3fdcf'}
+  - {seq: 2, role: markers, filename: assets/KR6i0077_002-T.markers.yaml, hash: 'sha256:b006964450fe6fd297ec6e60144f115c5444848a93990ab1767e824080f1d9f7'}
+  - {seq: 3, role: markers, filename: assets/KR6i0077_003-T.markers.yaml, hash: 'sha256:0f2158a62688469da50c58a1daa0fa323766ebc82b851aedbee5eb659dbff9f6'}
+  - {seq: 4, role: markers, filename: assets/KR6i0077_004-T.markers.yaml, hash: 'sha256:82e71337160be83b3b2c794352211d0da7d80969e79604ea5317200e2523f3ba'}
+  - {seq: 5, role: markers, filename: assets/KR6i0077_005-T.markers.yaml, hash: 'sha256:aea7fcf5262f35c04bfec96558df2766f182acd5a06a09fb21f5d049d64704e8'}
+  - {seq: 6, role: markers, filename: assets/KR6i0077_006-T.markers.yaml, hash: 'sha256:9460b6348a9f086af8bd9d8e5d45fc458edef6d6e0eda4073f6552dadabc3c34'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6i0077_T_001-juan-start
+    span:
+    - body
+    - 0
+    - 4891
+  label: 說無垢稱經卷第一
+  type: juan
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6i0077_T_001-mulu-1
+    span:
+    - body
+    - 11
+    - 11
+  label: 1 序品
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6i0077_T_001-mulu-2
+    span:
+    - body
+    - 3646
+    - 3646
+  label: 2 顯不思議方便善巧品
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6i0077_T_002-juan-start
+    span:
+    - body
+    - 0
+    - 8468
+  label: 說無垢稱經卷第二
+  type: juan
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6i0077_T_002-mulu-1
+    span:
+    - body
+    - 9
+    - 9
+  label: 3 聲聞品
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6i0077_T_002-mulu-2
+    span:
+    - body
+    - 4466
+    - 4466
+  label: 4 菩薩品
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6i0077_T_003-juan-start
+    span:
+    - body
+    - 0
+    - 7013
+  label: 說無垢稱經卷第三
+  type: juan
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6i0077_T_003-mulu-1
+    span:
+    - body
+    - 9
+    - 9
+  label: 5 問疾品
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6i0077_T_003-mulu-2
+    span:
+    - body
+    - 3758
+    - 3758
+  label: 6 不思議品
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6i0077_T_004-juan-start
+    span:
+    - body
+    - 0
+    - 7935
+  label: 說無垢稱經卷第四
+  type: juan
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6i0077_T_004-mulu-1
+    span:
+    - body
+    - 9
+    - 9
+  label: 7 觀有情品
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6i0077_T_004-mulu-2
+    span:
+    - body
+    - 3225
+    - 3225
+  label: 8 菩提分品
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6i0077_T_004-mulu-3
+    span:
+    - body
+    - 5597
+    - 5597
+  label: 9 不二法門品
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6i0077_T_005-juan-start
+    span:
+    - body
+    - 0
+    - 7024
+  label: 說無垢稱經卷第五
+  type: juan
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6i0077_T_005-mulu-1
+    span:
+    - body
+    - 9
+    - 9
+  label: 10 香臺佛品
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6i0077_T_005-mulu-2
+    span:
+    - body
+    - 3261
+    - 3261
+  label: 11 菩薩行品
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6i0077_T_006-juan-start
+    span:
+    - body
+    - 0
+    - 5641
+  label: 說無垢稱經卷第六
+  type: juan
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6i0077_T_006-mulu-1
+    span:
+    - body
+    - 9
+    - 9
+  label: 12 觀如來品
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6i0077_T_006-mulu-2
+    span:
+    - body
+    - 2227
+    - 2227
+  label: 13 法供養品
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6i0077_T_006-mulu-3
+    span:
+    - body
+    - 4467
+    - 4467
+  label: 14 囑累品
+  type: mulu
+  level: 1
+hash: sha256:9c2ee66bc740fbc3f30f18c24c8b3ea8ce521fec3ae99e8f160767220f023315
